@@ -42,4 +42,5 @@ function start() {
 
 }
 start();
+start();
     
